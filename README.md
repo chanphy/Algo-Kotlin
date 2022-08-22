@@ -1,6 +1,44 @@
 # Algo-Kotlin 
 Algorithm Training from AlgoMonster
-## Opening
+
+## Set up Kotlin project with Gradle in the Codespace
+1. Add a new Repository in the github
+2. Clone to Codespace and auto prepared the develop environment
+3. Add extention for Git and Kotlin
+4. Install Gradle plugin in the Terminal by commond of 
+   `sdk install gradle`
+   ```
+    $ sdk install gradle
+    ==== BROADCAST =================================================================
+    2022-08-22: neo4jmigrations 1.10.0 available on SDKMAN! https://github.com/michael-simons/neo4j-migrations/releases/tag/1.10.0
+    2022-08-19: asciidoctorj 2.5.5 available on SDKMAN!
+    2022-08-19: micronaut 3.6.1 available on SDKMAN!
+    ================================================================================
+    gradle 7.5.1 is already installed.
+   ```
+5. Init the Kotlin project with gradle [Building Kotlin Applications Sample](https://docs.gradle.org/current/samples/sample_building_kotlin_applications.html)
+6. Generated folder as following:
+   ```
+   ├── gradle 
+   │   └── wrapper
+   │       ├── gradle-wrapper.jar
+   │       └── gradle-wrapper.properties
+   ├── gradlew 
+   ├── gradlew.bat 
+   ├── settings.gradle 
+   └── app
+      ├── build.gradle 
+      └── src
+         ├── main
+         │   └── kotlin 
+         │       └── demo
+         │           └── App.kt
+         └── test
+               └── kotlin 
+                  └── demo
+                     └── AppTest.kt
+   ```
+## Algorithm Basic
 ### Basic Data Structure
 1. Stack
 2. Queue

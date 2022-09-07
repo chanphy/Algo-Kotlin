@@ -10,7 +10,7 @@ class RunningSumOf1dArrayTest {
         val nums = arrayOf(1, 2, 3, 4).toIntArray()
 
         println("-----------------------Leetcode Problem 1480------------------------\n")
-        println("[Expert]: " + expectNums.contentToString() + "\n[Input]: " + nums.contentToString() + "\n[Output]: " + (RunningSumOf1dArray.runningSum(nums)).contentToString())
+        println("[Expect]: " + expectNums.contentToString() + "\n[Input]: " + nums.contentToString() + "\n[Output]: " + (RunningSumOf1dArray.runningSum(nums)).contentToString())
         if (expectNums.contentToString() == nums.contentToString()) {
             println("[Result]: Success")
         } else{

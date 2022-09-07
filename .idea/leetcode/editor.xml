@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$USER_HOME$/Github/leetcode/leetcode/editor/cn/[1894]Find the Student that Will Replace the Chalk.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/Github/leetcode/leetcode/editor/cn/doc/content/[1894]Find the Student that Will Replace the Chalk.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1894" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/Github/leetcode/leetcode/editor/cn/[1894]Find the Student that Will Replace the Chalk.kt" />
+              <option name="titleSlug" value="find-the-student-that-will-replace-the-chalk" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Github/leetcode/leetcode/editor/en/[126]Word Ladder II.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/Github/leetcode/leetcode/editor/en/doc/content/[126]Word Ladder II.md" />
+              <option name="frontendQuestionId" value="leetcode.com126" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/Github/leetcode/leetcode/editor/en/[126]Word Ladder II.kt" />
+              <option name="titleSlug" value="word-ladder-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Github/leetcode/leetcode/editor/en/[1]Two Sum.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/Github/leetcode/leetcode/editor/en/doc/content/[1]Two Sum.md" />
+              <option name="frontendQuestionId" value="leetcode.com1" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/Github/leetcode/leetcode/editor/en/[1]Two Sum.kt" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

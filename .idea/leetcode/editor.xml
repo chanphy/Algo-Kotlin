@@ -36,6 +36,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Github/leetcode/leetcode/editor/en/[724]Find Pivot Index.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/Github/leetcode/leetcode/editor/en/doc/content/[724]Find Pivot Index.md" />
+              <option name="frontendQuestionId" value="leetcode.com724" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/Github/leetcode/leetcode/editor/en/[724]Find Pivot Index.kt" />
+              <option name="titleSlug" value="find-pivot-index" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
